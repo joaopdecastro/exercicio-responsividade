@@ -8,6 +8,8 @@
 ### Resultado
 ##### Foram desenvolvidos três layouts diferentes que se adaptam a diversas resoluções de tela. A transição entre layouts fica evidente, por exemplo, na mudança de cor do header.
 
+##### Link do projeto: https://joaopdecastro.github.io/exercicio-responsividade/
+
 --------
 ###### Projeto desenvolvido por João Castro. Linkedin: https://www.linkedin.com/in/joaopdecastro/
 
@@ -30,6 +32,8 @@
 ### Result
 
 ##### Three different layouts have been developed that adapt to different screen resolutions. The transition between layouts is evident, for example, in the color change of the 'header.
+
+##### Project Link: https://joaopdecastro.github.io/exercicio-responsividade/
 
 --------
 
